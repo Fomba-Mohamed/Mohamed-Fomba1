@@ -11,8 +11,8 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
+            Hi, My Name Is Mohamed Fomba everyone calls me Dangote. I am a
+            Student at the University of Management And Technology. I build beautifull websites with React and
             Tailwind CSS.
           </p>
           <p className="pb-5">
@@ -23,7 +23,7 @@ const About = () => {
           <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p>
 
           <p>
-            In my spare time I create YouTube videos and write blogs on my Blog.
+            In my spare time I Love Watching Football and write blogs on my Blog.
             Where I talk about programming theory and build various projects.
           </p>
         </div>
