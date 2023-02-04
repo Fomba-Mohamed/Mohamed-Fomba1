@@ -11,7 +11,7 @@ const Contact = () => {
           Hello I'm Mohamed Alhaji Barrie. Student of the University of Management and Technology
           we are currently learning on how to clone an existing Portfolio from the remote 
           repository to out local repository. Thank you
-        </P>
+        </p>
         <p>
           I am currently open for a fulltime Frontend Developer role. If you
           want to discuss about that feel free to email me or call me.
