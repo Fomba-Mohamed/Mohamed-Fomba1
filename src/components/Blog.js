@@ -32,7 +32,7 @@ const Blog = () => {
         {post.map((item) => {
           return (
             <div>
-              <img src={item.img} alt={item.title} />
+              <body style="background-image: url(demo2.jpg);height: 5vh width: 10;background-size: cover;background-position: center;">
               <h3 className="py-5 text-2xl">{item.title}</h3>
               <a
                 href={item.url}
