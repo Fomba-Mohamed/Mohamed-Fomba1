@@ -8,21 +8,20 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          Hello I'm Mohamed Alhaji Barrie. Student of the University of Management and Technology
+          H guys! Am Emmanuel, a Student of the University of Management and Technology
           we are currently learning on how to clone an existing Portfolio from the remote 
-          repository to out local repository. Thank you
+          repository to our local repository. Thank you
         </p>
         <p>
-          I am currently open for a fulltime Frontend Developer role. If you
-          want to discuss about that feel free to email me or call me.
+          I am currently open for a fulltime Frontend Developer role. If you need help or may
+          want to discuss please feel free to email me or call me on:
         </p>
 
         <p className="py-2">
-          <span className="font-bold">Email:</span> mbarrie981@gmail.com
+          <span className="font-bold">Email:</span> emmanabdulkamara001@gmail.com
         </p>
         <p className="py-2">
-          <span className="font-bold">Phone:</span> +23277-969-774
-        </p>
+          <span className="font-bold">Phone:</span> +23233487119
       </div>
     </section>
   );

@@ -18,7 +18,7 @@ const Hero = () => {
           </h1>
 
           <p className="py-5">
-            I am proficient in JavaScript, React.js and Tailwind CSS
+            I am an expert in JavaScript, React.js and CSS
           </p>
 
           <div className="flex py-5 ">
